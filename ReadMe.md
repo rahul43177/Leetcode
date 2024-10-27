@@ -1,2 +1,1 @@
-This is read me file 
-pushing the leetcode solutions , checking 
+# A collection of LeetCode questions 
